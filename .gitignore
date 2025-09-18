@@ -6,12 +6,11 @@
 # pretrained_model
 /pretrained_model/
 
-# datafiles
-/datafiles/
-
 # __pycache__
 **/__pycache__
 
+# datafiles
+/datafiles/
 
 
 # PERSONAL GITIGNORE
