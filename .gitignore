@@ -1,16 +1,21 @@
+# SHARED GITIGNORE
+
 # dev
 /dev/
-/pretrained_model/
-# /datafiles/
 
+# pretrained_model
+/pretrained_model/
+
+# datafiles
+/datafiles/
 
 # __pycache__
 **/__pycache__
 
-# 
-**.sh
-**.html
+
+
+# PERSONAL GITIGNORE
+
+# personal exercise notebook
 /exercise_dev.ipynb
-/exercise_pub.ipynb
-/exercise_oldver.ipynb
 
